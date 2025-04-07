@@ -50,7 +50,6 @@ src
 3. Accedeix a les següents rutes:
     - [`http://localhost:8080/user`](http://localhost:8080/user) → Mostrar un usuari aleatori
     - [`http://localhost:8080/test`](http://localhost:8080/test) → Test de funcionament
-    - [`http://localhost:8080/ping`](http://localhost:8080/ping) → Comprovació API (retorna JSON)
 
 ## ❤️ Agraïments
 
